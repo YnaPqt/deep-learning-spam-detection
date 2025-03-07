@@ -14,7 +14,3 @@ Goals 🎯
 
 Your goal is to build a spam detector, that can automatically flag spams as they come based solely on the sms' content.
 Scope of this project 🖼️
-
-To start off, AT&T would like you to use the folowing dataset:
-
-Dowload the Dataset  
